@@ -1,6 +1,6 @@
-# Xenify Audit
+# Contract Audits
 
-Collection of Audits for the Xenify Smart Contracts:
+Audits Completed for the Xenify Smart Contracts:
 
 ------------
 
